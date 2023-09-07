@@ -1,0 +1,14 @@
+nav.navbar.navbar-expand-lg.bgcolor {
+    /* background-color: blue; */
+    padding: 10px 40px;
+   
+}
+
+div#navbarSupportedContent {
+    font-size: 1.4vw;
+    font-weight: 500;
+}
+
+a.navbar-brand {
+    font-size: 2vw;
+}
